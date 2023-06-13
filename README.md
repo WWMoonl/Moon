@@ -11,8 +11,12 @@
 （1）在数据处理方面，采用少量标记为正常、骨量减少和骨质疏松的样本，对CT图像进行预处理以提取感兴趣的特征，CT可以显示更细小的纹理结构，提供医生更全面的图像信息，方便医生多方面诊断。<br/> 
 （2）临床中，医生一般通过评估医学影像中骨结构的变化（如CT图像上骨小梁稠密度）来诊断骨质疏松。团队提出的改进EfficientNetv2s深度学习模型，可以提取CT图像中的纹理特征和局部结构特征，因此保证了特征提取和模型分类的准确性。测试结果表明，与其他深度学习分类网络相比，我们的模型能够更准确地预测骨质疏松风险等级，准确率达到了75.2%。之后，我们会不断扩充训练数据规模，持续迭代医学图像人工智能核心技术，使得模型预测的更准确。<br/> 
 （3）开发操作简单、交互便捷的骨密先知桌面应用程序，用户通过个人信息注册和登录进入到骨密先知系统，上传个人的腰椎CT图像，得到我们的智能AI骨质疏松诊断系统给出的参考结果以及建议，同时也可以预约我们的平台医生进行进一步的诊断。<br/> 
-## 5. 作品演示
-![Alt text]([https://github.com/FishInWater-1999/GithubUseTest/blob/master/bac_3.jpg](https://github.com/WWMoonl/Moon/blob/main/6%E6%9C%8813%E6%97%A5.mp4))
-
-## 6. 链接
-[百度网盘](http://blog.csdn.net/guodongxiaren)  
+## 5. 作品展示
+### 诊断首页点击开始检测，选择上传腰椎CT图像
+![image](https://github.com/WWMoonl/Moon/blob/main/%E9%A6%96%E9%A1%B5.png)
+### 系统诊断后展示预测结果
+![image](https://github.com/WWMoonl/Moon/blob/main/%E7%BB%93%E6%9E%9C.png)
+### 查看用户日志
+![image](https://github.com/WWMoonl/Moon/blob/main/%E6%97%A5%E5%BF%97.png)
+## 6. 链接下载
+[百度网盘](https://pan.baidu.com/s/1YlXJvmVukncn4B66REToLg?pwd=8s6i)
