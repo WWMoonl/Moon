@@ -13,12 +13,12 @@
 （3）开发操作简单、交互便捷的骨密先知桌面应用程序，用户通过个人信息注册和登录进入到骨密先知系统，上传个人的腰椎CT图像，得到我们的智能AI骨质疏松诊断系统给出的参考结果以及建议，同时也可以预约我们的平台医生进行进一步的诊断。<br/> 
 ## 5. 作品展示
 ### 诊断首页点击开始检测，选择上传腰椎CT图像
-![image](https://github.com/WWMoonl/Moon/blob/main/%E9%A6%96%E9%A1%B5.png)
+![](https://changsl231-pics.oss-cn-beijing.aliyuncs.com/img/20230613193018.png)
 ### 系统诊断后展示预测结果
-![image](https://github.com/WWMoonl/Moon/blob/main/%E7%BB%93%E6%9E%9C.png)
+![](https://changsl231-pics.oss-cn-beijing.aliyuncs.com/img/20230613193023.png)
 ### 查看用户日志
-![image](https://github.com/WWMoonl/Moon/blob/main/%E6%97%A5%E5%BF%97.png)
+![](https://changsl231-pics.oss-cn-beijing.aliyuncs.com/img/20230613193030.png)
 ## 6. 链接下载
 ### [百度网盘](https://pan.baidu.com/s/1YlXJvmVukncn4B66REToLg?pwd=8s6i)
-### ![image](https://github.com/WWMoonl/Moon/blob/main/%E7%BD%91%E7%9B%98%E9%93%BE%E6%8E%A5.jpg)
+### ![](https://changsl231-pics.oss-cn-beijing.aliyuncs.com/img/20230613193007.jpg)
 
